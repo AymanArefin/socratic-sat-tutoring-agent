@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.egg
+
+# Node / Cloudflare (agent/)
+agent/node_modules/
+agent/dist/
+agent/.wrangler/
+agent/.dev.vars
+agent/.dev.vars.*
+!agent/.dev.vars.example
+agent/.env
+agent/.env.*
+!agent/.env.example
+agent/.cache/
+agent/*.tsbuildinfo
+agent/*.log
+
+# macOS
+.DS_Store
+
+# Cursor
+.cursor/
+skills-lock.json
