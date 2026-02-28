@@ -1,6 +1,6 @@
 # Socratic SAT Tutoring Agent
 
-A Socratic AI tutor for SAT preparation, deployed on Cloudflare Workers using the agent-starter template from https://github.com/cloudflare/agents-starter.
+A Socratic AI tutor for SAT preparation, deployed on Cloudflare Workers using the template from https://github.com/cloudflare/agents-starter.
 
 **Live:** https://socratic-sat-tutoring-agent.aymanarefin21.workers.dev
 
