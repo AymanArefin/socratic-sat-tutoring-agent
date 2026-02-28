@@ -29,6 +29,10 @@ agent/*.log
 # macOS
 .DS_Store
 
+# Editor
+agent/.vscode/
+agent/npm-agents-banner.svg
+
 # Cursor
 .cursor/
 skills-lock.json
